@@ -8,5 +8,5 @@ The repo contains all of the sessions, assignments and classwork which we have p
 <i>1. Ebtesam El-Hossiny.</i><br>
 <i>2. Muhammad Yousef</i>.
 
-Shouldn't you have any inquiries, you can reach me at <b>A@B</b> <br>
+Shouldn't you have any further inquiries, you can reach me at <b>A@B</b> <br>
 Where <b>A</b> = <i>Muhammad.wd</i>    and    <b>B</b> = <i>outlook.com</i>
